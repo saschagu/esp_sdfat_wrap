@@ -1,0 +1,19 @@
+{
+  "name":"esp_sdfat_wrap",
+  "description":"Wrapper library for using SdFat library with Espressif's FS and File structures",
+  "keywords":"SdFat, ESP32 file system, sd card, FSImpl, FileImpl",
+  "authors":
+  {
+    "name": "saschagu",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/saschagu/esp_sdfat_wrap.git"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": ["espressif32"]  
+}
